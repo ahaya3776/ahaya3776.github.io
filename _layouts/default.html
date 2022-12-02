@@ -15,41 +15,22 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a> <br>(早川 明男)</h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <img src="{{site.img.portrait | relative_url}}" />
+        <div id="icons">
+          <a href="https://github.com/ahaya3776/" target="_blank" rel="noopener noreferrer"><img src="{{site.img.github | relative_url}}" id="icon" width="48" height="48" /></a>
+          <a href="https://twitter.com/ahaya3776/" target="_blank" rel="noopener noreferrer"><img src="{{site.img.twitter | relative_url}}" id="icon" width="56" height="48" /></a>
+          <a href="https://www.linkedin.com/in/akio-hayakawa-461059196" target="_blank" rel="noopener noreferrer"><img src="{{site.img.linkedin | relative_url}}" id="icon" width="48" height="48" /></a>
+          <a href="mailto:ah33550336@gmail.com", target="_blank" rel="noopener noreferrer"><img src="{{site.img.email | relative_url}}" id="icon" width="48" height="48" /></a>
+        </div>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>

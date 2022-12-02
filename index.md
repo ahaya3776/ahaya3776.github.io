@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a Master's Student at the <a href="https://nlp.naist.jp/" target="_blank" rel="noopener noreferrer">Natural Language Processing Lab</a> at <a href="http://www.naist.jp/" target="_blank" rel="noopener noreferrer">Nara Institute of Science and Technology</a> (NAIST) and currently supervised by Prof. <a href="https://sites.google.com/site/tarowtnb/?pli=1" target="_blank" rel="noopener noreferrer">Taro Watanabe</a>. I am keen on natural language generations tasks, such as **text simplification**, paraphrasing, and summarization. With a Master's degree in Education, I am also interested in the application of **NLP for education**.
 
-[Link to another page](./another-page.html).
+My resume can be downloaded <a href="assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-There should be whitespace between paragraphs.
+# Publications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1. **Akio Hayakawa**, Tomoyuki Kajiwara, Hiroki Ouchi, Taro Watanabe. 2022. _JADES: New Text Simplification Dataset in Japanese Targeted at Non-Native Speakers._ TSAR-2022. 
+1. **Akio Hayakawa**, Hiroki Ouchi, Tomoyuki Kajiwara, Taro Watanabe. 2022. _(In Japanese, Translated Title) A Study of Meta‑Evaluation of Automatic Evaluation Metrics in Text Simplification._ NLP 2022.
 
-# Header 1
+# Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* _Apr 2021 - Mar 2023 (expected)_ : **Master of Engineering** at Nara Institute of Science and Technology
+* _Apr 2015 - Mar 2017_ : **Master of Education** at University of Tokyo
+* _Apr 2011 - Mar 2015_ : **Bachelor of Education** at University of Tokyo
 
-## Header 2
+# Work Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* _Feb 2021 - Current_ : Freelance Machine Learning Engineer
+* _Jan 2019 - Jan 2021_ : Machine Learning Engineer at BrainPad. Inc
+* _Apr 2017 - Dec 2019_ : Software Engineer at Subsidiary of NTT
 
-### Header 3
+# Achievements
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* _Jun 2020_ : AWS Certified Solutions Architect - Associate
+* _Jun 2019_ : Google Cloud Certified Professional Data Engineer _(Expired)_
+* _Dec 2018_ : Kaggle Competition Master
+* _Mar 2018_ : LPIC - Certified Level 1
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

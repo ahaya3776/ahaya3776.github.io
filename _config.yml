@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Akio Hayakawa
+show_downloads: false
 google_analytics:
+
+github:
+  is_user_page: true
+
+img:
+  github: /assets/img/github.png
+  twitter: /assets/img/twitter.png
+  linkedin: /assets/img/linkedin.png
+  email: /assets/img/mail.png
+  portrait: /assets/img/portrait.png
+
 theme: jekyll-theme-minimal
