@@ -10,6 +10,7 @@ img:
   twitter: /assets/img/twitter.png
   linkedin: /assets/img/linkedin.png
   email: /assets/img/mail.png
+  scholar: /assets/img/scholar.png
   portrait: /assets/img/portrait.png
 
 theme: jekyll-theme-minimal
