@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Akio Hayakawa
+description: Ph. D student at Universitat Pompeu Fabra
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+email: "akio.hayakawa@upf.edu"
+linkedin: "akio-hayakawa"
+github: "ahaya3776"
+twitter: "ahaya3776"
+scholar: "YetFJQUAAAAJ"
 
 # Markdown
 highlighter: rouge

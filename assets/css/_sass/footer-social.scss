@@ -34,6 +34,8 @@
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
+.fa-twitter,
+.fa-graduation-cap,
 .fa-orcid,
 .fa-researchgate,
 .fa-bluesky,
@@ -92,6 +94,27 @@
   color: #a6ce3b;
   background: #fefefe;
   border-color: #a6ce3b;
+}
+
+.rounded-social-buttons .social-button.twitter {
+  background: #007bb5;
+}
+
+.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
+  color: #007bb5;
+  background: #fefefe;
+  border-color: #007bb5;
+}
+
+.rounded-social-buttons .social-button.scholar {
+  border-color: #4285f4;
+  background: #fefefe;
+  color: #4285f4;
+}
+
+.rounded-social-buttons .social-button.scholar:hover, .rounded-social-buttons .social-button.scholar:focus {
+  background: #4285f4;
+  color: #fefefe;
 }
 
 .rounded-social-buttons .social-button.researchgate {
