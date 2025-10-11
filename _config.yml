@@ -7,11 +7,6 @@ baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
 # Social media links in footer
 email: "akio.hayakawa@upf.edu"
 linkedin: "akio-hayakawa"
@@ -36,19 +31,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
 
 sass:
   sass_dir: /assets/css/_sass
