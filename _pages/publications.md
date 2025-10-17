@@ -8,6 +8,7 @@ published: true
 <br>
 ## Publications
 
+1. **Akio Hayakawa**, Nouran Khallaf, Serge Sharoff, Horacio Saggion. 2025. _UoL-UPF at TSAR 2025 Shared Task: A Generate-and-Select Approach for Readability-Controlled Text Simplification._ Proceedings of the 4th Workshop on Text Simplification, Accessibility, and Readability (TSAR-2025). [Link (to appear)]
 1. **Akio Hayakawa**, Stefan Bott, Horacio Saggion. 2025. _Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs._ The 18th International Natural Language Generation Conference (INLG 2025). <a href="https://arxiv.org/abs/2509.25086">[arXiv]</a> [Link (to appear)]
 1. Adam Nohejl, **Akio Hayakawa**, Yusuke Ide, Taro Watanabe. 2025. _Lexical Simplification: From a Japanese Dataset to Multilingual Methods Leveraging Large Language Models and a YouTube Subtitle Corpus._ 自然言語処理 (Journal of Natural Language Processing). [Link (to appear)]
 1. Adam Nohejl, **Akio Hayakawa**, Yusuke Ide, Taro Watanabe. 2024. _Difficult for Whom? A study of Japanese Lexical Complexity._ Proceedings of the 3rd Workshop on Text Simplification, Accessibility, and Readability (TSAR-2024). <a href="https://aclanthology.org/2024.tsar-1.8">[Link]</a>

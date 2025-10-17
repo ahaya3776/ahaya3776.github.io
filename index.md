@@ -16,6 +16,7 @@ Previously, I obtained Master in Engineering at the <a href="https://nlp.naist.j
 
 
 ## News
+* _2025.10.01_: We got the **2nd place** (out of 48 submissions) at the <a href="https://tsar-workshop.github.io/shared-task/">TSAR 2025 Shared Task</a> on Readability-Controlled Text Simplification!
 * _2025.09.30_: Our paper "Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs." was accepted to **INLG 2025!**  <a href="https://arxiv.org/abs/2509.25086">arXiv</a> here.
 * _2025.07.16_: New Role: **Organizer for <a href="https://tsar-workshop.github.io/">TSAR 2025</a> Workshop** co-located with EMNLP 2025!
 
