@@ -7,7 +7,7 @@ published: true
 
 <br>
 
-My full CV can be downloaded [here].
+My full CV can be downloaded [here]({{ site.baseurl }}/assets/CV_202510.pdf).
 
 ## Education
 * _Oct 2023 -_ : **PhD Student** at Universitat Pompeu Fabra
