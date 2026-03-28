@@ -16,6 +16,7 @@ Previously, I obtained Master in Engineering at the <a href="https://nlp.naist.j
 
 
 ## News
+* _2026.03.28_: Our system description paper on TSAR shared task was found to contain non-existent citations. Though introduced by a co-author, we take full responsibility for the error. Now the <a href="https://aclanthology.org/2025.tsar-1.16/">paper</a> is updated in ACL anthology, and our <a href="https://github.com/ahaya3776/tsar2025sharedtask-uol-upf">GitHub repo</a> includes the Erratum.
 * _2025.10.01_: We got the **2nd place** (out of 48 submissions) at the <a href="https://tsar-workshop.github.io/shared-task/">TSAR 2025 Shared Task</a> on Readability-Controlled Text Simplification!
 * _2025.09.30_: Our paper "Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs." was accepted to **INLG 2025!**  <a href="https://arxiv.org/abs/2509.25086">arXiv</a> here.
 * _2025.07.16_: New Role: **Organizer for <a href="https://tsar-workshop.github.io/">TSAR 2025</a> Workshop** co-located with EMNLP 2025!
