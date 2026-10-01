@@ -16,6 +16,7 @@ Previously, I obtained Master in Engineering at the <a href="https://nlp.naist.j
 
 
 ## News
+* _2026.10.01_: Our paper "Reader Proficiency Shapes Layer-wise Surprisal Profiles." was accepted to **EMNLP 2026 Findings!** <a href="https://arxiv.org/abs/2609.37688">arXiv</a> here. I am attending the conference in-person as a student volunteer. See you in Budapest!
 * _2026.03.28_: Our system description paper on TSAR shared task was found to contain non-existent citations. Though introduced by a co-author, we take full responsibility for the error. Now the <a href="https://aclanthology.org/2025.tsar-1.16/">paper</a> is updated in ACL anthology, and our <a href="https://github.com/ahaya3776/tsar2025sharedtask-uol-upf">GitHub repo</a> includes the Erratum.
 * _2025.10.01_: We got the **2nd place** (out of 48 submissions) at the <a href="https://tsar-workshop.github.io/shared-task/">TSAR 2025 Shared Task</a> on Readability-Controlled Text Simplification!
 * _2025.09.30_: Our paper "Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs." was accepted to **INLG 2025!**  <a href="https://arxiv.org/abs/2509.25086">arXiv</a> here.
@@ -24,7 +25,4 @@ Previously, I obtained Master in Engineering at the <a href="https://nlp.naist.j
 
 ## Research Interests
 My research interests lie in **automatic text simplification**, with the ultimate goal of enhancing real-world accessibility in areas like **education** and **social inclusion**. My current work particularly focuses on the evaluation of simplified texts, taking into account **users' attributes and proficiency**.
-
-
-
 
